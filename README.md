@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer from Brazil 🇧🇷</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-heitorrsdev.vercel.app/api?username=eduamorimm&theme=react&show_icons=true&locale=en" alt="stats" />
+  <img height="180em" src="https://github-readme-stats-heitorrsdev.vercel.app/api?username=eduamorimm&theme=react&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="stats" />
 </div>
 
 <p align="center">
