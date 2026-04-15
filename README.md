@@ -5,15 +5,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduamorimm&theme=react&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="stats" />        
   </div>                                                                                                                                                                                             
                                                                                                                                                                                                      
-  <p align="center">                                                                                                                                                                                 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" height="30" width="40"/><img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" width="40"/><img                                                                 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="30" width="40"/><img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40"/><img                                                                        
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40"/><img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" width="40"/><img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" height="30" width="40"/>
-  </p>
+   <div align="center">                                                                                                                                                                               
+    <img src="https://skillicons.dev/icons?i=angular,js,ts,html,css,nodejs,graphql" />
+  </div>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/eduardo-amorim-a8a594212/" target="_blank">
